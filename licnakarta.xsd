@@ -60,10 +60,6 @@
     <xs:sequence>
       <xs:element name="osoba" type="osoba"/>
       <xs:element name="dokument" type="dokument"/>
-      <xs:element name="osoba1" type="osoba"/>
-      <xs:element name="dokument1" type="dokument"/>
-      <xs:element name="osoba2" type="osoba"/>
-      <xs:element name="dokument2" type="dokument"/>
     </xs:sequence>
   </xs:complexType>
 </xs:element>

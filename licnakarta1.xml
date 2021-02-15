@@ -3,21 +3,21 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:noNamespaceSchemaLocation="licnakarta.xsd">
   <osoba>
-  	<ime>Marko</ime>
-  	<prezime>98</prezime>
-  	<datum format="dd.MM.yyyy."><datum>10.07.1991.</datum></datum>
-  	<pol>M</pol>
+  	<ime>Djuro</ime>
+  	<prezime>Jaksic</prezime>
+  	<datum format="dd.MM.yyyy."><datum>11.08.1992.</datum></datum>
+  	<pol>Z</pol>
   	<prebivaliste>
   		<mesto>Novi Sad</mesto>
   		<adresa>Janka Cmelika</adresa>
-  		<broj>26</broj>
+  		<broj>27</broj>
   	</prebivaliste>
   	<jmbg>1234567890123</jmbg>
   </osoba>
   <dokument>
   	<regbr>123456789</regbr>
-  	<datumIzdavanja format="dd.MM.yyyy."><datum>11.01.2020.</datum></datumIzdavanja>
-  	<vaziDo format="dd.MM.yyyy."><datum>11.01.2025.</datum></vaziDo>
+  	<datumIzdavanja format="dd.MM.yyyy."><datum>12.02.2020.</datum></datumIzdavanja>
+  	<vaziDo format="dd.MM.yyyy."><datum>12.02.2025.</datum></vaziDo>
   	<dokumentIzdaje>PU u Novom Sadu</dokumentIzdaje>
   </dokument>
 </licnakarta>
